@@ -1,0 +1,212 @@
+[
+  {
+    "code": "EVF",
+    "name": "EV Fundamentals",
+    "chinese": "新能源汽车基础",
+    "icon": "⚡",
+    "count": 108
+  },
+  {
+    "code": "VEH",
+    "name": "Vehicle Structure & Systems",
+    "chinese": "整车结构与系统",
+    "icon": "🚙",
+    "count": 108
+  },
+  {
+    "code": "BAT",
+    "name": "Battery Fundamentals",
+    "chinese": "动力电池基础",
+    "icon": "🔋",
+    "count": 108
+  },
+  {
+    "code": "CEL",
+    "name": "Battery Cell",
+    "chinese": "电芯",
+    "icon": "🧫",
+    "count": 108
+  },
+  {
+    "code": "PAK",
+    "name": "Module & Battery Pack",
+    "chinese": "模组 / PACK",
+    "icon": "📦",
+    "count": 108
+  },
+  {
+    "code": "BMS",
+    "name": "BMS",
+    "chinese": "电池管理系统",
+    "icon": "🧠",
+    "count": 108
+  },
+  {
+    "code": "CHD",
+    "name": "Charging & Discharging",
+    "chinese": "充放电",
+    "icon": "↕️",
+    "count": 108
+  },
+  {
+    "code": "THM",
+    "name": "Thermal Management",
+    "chinese": "热管理",
+    "icon": "🌡️",
+    "count": 108
+  },
+  {
+    "code": "MOT",
+    "name": "Electric Motor",
+    "chinese": "电机",
+    "icon": "⚙️",
+    "count": 108
+  },
+  {
+    "code": "INV",
+    "name": "Motor Controller & Inverter",
+    "chinese": "电控 / 逆变器",
+    "icon": "🔄",
+    "count": 108
+  },
+  {
+    "code": "HVS",
+    "name": "High-Voltage System",
+    "chinese": "高压系统",
+    "icon": "⚡",
+    "count": 108
+  },
+  {
+    "code": "LVS",
+    "name": "Low-Voltage System",
+    "chinese": "低压系统",
+    "icon": "🔌",
+    "count": 108
+  },
+  {
+    "code": "CHR",
+    "name": "Charging System",
+    "chinese": "充电系统",
+    "icon": "🔋",
+    "count": 108
+  },
+  {
+    "code": "VCU",
+    "name": "VCU & Vehicle Control",
+    "chinese": "整车控制",
+    "icon": "🧭",
+    "count": 108
+  },
+  {
+    "code": "PWT",
+    "name": "Powertrain",
+    "chinese": "动力总成 / 传动",
+    "icon": "🛞",
+    "count": 108
+  },
+  {
+    "code": "CHA",
+    "name": "Chassis",
+    "chinese": "底盘",
+    "icon": "🚘",
+    "count": 108
+  },
+  {
+    "code": "BRK",
+    "name": "Braking & Regenerative Braking",
+    "chinese": "制动 / 能量回收",
+    "icon": "🛑",
+    "count": 108
+  },
+  {
+    "code": "MFG",
+    "name": "Manufacturing",
+    "chinese": "生产制造",
+    "icon": "🏭",
+    "count": 108
+  },
+  {
+    "code": "LIN",
+    "name": "Production Line",
+    "chinese": "生产线",
+    "icon": "🏗️",
+    "count": 108
+  },
+  {
+    "code": "ASM",
+    "name": "Assembly",
+    "chinese": "装配",
+    "icon": "🧰",
+    "count": 108
+  },
+  {
+    "code": "PRO",
+    "name": "Manufacturing Process",
+    "chinese": "生产工艺",
+    "icon": "📐",
+    "count": 108
+  },
+  {
+    "code": "EQA",
+    "name": "Equipment & Automation",
+    "chinese": "设备 / 自动化",
+    "icon": "🤖",
+    "count": 108
+  },
+  {
+    "code": "QUA",
+    "name": "Quality",
+    "chinese": "质量",
+    "icon": "✅",
+    "count": 108
+  },
+  {
+    "code": "TST",
+    "name": "Testing & Inspection",
+    "chinese": "测试 / 检测",
+    "icon": "🧪",
+    "count": 108
+  },
+  {
+    "code": "DEF",
+    "name": "Defects & Abnormalities",
+    "chinese": "缺陷 / 异常",
+    "icon": "⚠️",
+    "count": 108
+  },
+  {
+    "code": "MNT",
+    "name": "Maintenance & Troubleshooting",
+    "chinese": "维修 / 故障排查",
+    "icon": "🔧",
+    "count": 108
+  },
+  {
+    "code": "SAF",
+    "name": "Safety",
+    "chinese": "安全",
+    "icon": "🦺",
+    "count": 108
+  },
+  {
+    "code": "RND",
+    "name": "R&D / Engineering",
+    "chinese": "研发 / 工程",
+    "icon": "📏",
+    "count": 108
+  },
+  {
+    "code": "COM",
+    "name": "Technical Communication",
+    "chinese": "技术沟通",
+    "icon": "💬",
+    "count": 108
+  },
+  {
+    "code": "REP",
+    "name": "Meeting & Problem Reporting",
+    "chinese": "会议 / 问题汇报",
+    "icon": "📊",
+    "count": 108
+  }
+]
