@@ -1,4 +1,4 @@
-const C='ev-english-v3';
+const C='ev-english-v4';
 const scope=self.registration.scope;
 const A=['','manifest.webmanifest','app-icon.svg','data/terms.json.gz','data/categories.json'].map(x=>new URL(x,scope).href);
 self.addEventListener('install',e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A)).then(()=>self.skipWaiting())));
