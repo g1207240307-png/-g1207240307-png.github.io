@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/-g1207240307-png.github.io/meredith-sephiroth/sw.js', { scope: '/-g1207240307-png.github.io/meredith-sephiroth/' })})}
